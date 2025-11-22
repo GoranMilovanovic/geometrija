@@ -1,0 +1,176 @@
+---
+title: "Media"
+---
+
+<p>
+  <a href="https://github.com/geometrija/geometrija.github.io"><img src="img/icons/github.png"></a>
+  <a href="https://www.facebook.com/GeometrijskaApstrakcija"><img src="img/icons/facebook.png"></a>
+  <a href="https://www.instagram.com/geometrija00/"><img src="img/icons/instagram.png"></a>
+</p>
+
+---
+
+**[PHOTO]** Opening of the international exhibition of the Geometry project, November 6, 2025, Commercial Gallery "Belgrade", Kosančićev Venac 19, Belgrade.
+
+<div class="gallery-prodaja">
+
+  <!-- Image 1 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna01.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 1">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna01.jpeg"
+         alt="Title / caption for image 1" />
+  </a>
+
+  <!-- Image 2 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna02.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 2">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna02.jpeg"
+         alt="Title / caption for image 2" />
+  </a>
+
+  <!-- Image 3 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna03.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna03.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 4 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna04.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna04.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 5 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna05.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna05.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 6 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna06.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna06.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 7 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna07.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna07.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 8 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna08.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna08.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+
+  <!-- Image 9 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna09.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna09.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 10 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna10.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna10.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 11 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna11.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna11.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 12 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna12.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna12.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 14 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna14.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna14.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 15 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna15.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna15.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+
+  <!-- Image 16 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna16.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna16.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+ 
+  <!-- Image 17 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna17.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna17.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+  
+  <!-- Image 18 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna18.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna18.jpeg"
+         alt="Title / caption for image 3" />
+  </a>
+
+  <!-- Image 19 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna19.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna19.jpeg"
+         alt="Title / caption for image 3" />
+  </a> 
+  
+  <!-- Image 20 -->
+  <a href="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna20.jpeg"
+     data-lightbox="prodajna"
+     data-title="Title / caption for image 3">
+    <img src="img/img2025/carousel_Prodajna/Geometrija2025_Prodajna20.jpeg"
+         alt="Title / caption for image 3" />
+  </a> 
+
+</div>
+
+---
+
+[**[PDF]**](media/Geometrija2023_Katalog.pdf) Exhibition Catalogue Femininity in Geometric Abstraction, Moderna Galerija Lazarevac, 2023.
+
+[![](img/img2023/geometrija2023_Katalog.png){width=400px}](media/Geometrija2023_Katalog.pdf)
+

@@ -1,0 +1,28 @@
+name: "GEOMETRIJA"
+
+output_dir: "_site"
+
+include:
+  - img/**
+  - css/custom-fonts.css
+
+navbar:
+  title: "<img id=\"logo\" style=\"width: 30px;\" src=\"img/logo/geometrija202px.png\" />"
+  left:
+    - text: "Geometrija"
+      href: about.html
+    - text: "Media"
+      href: media.html
+    - text: "Archive"
+      menu:
+        - text: "Geometrija 2023"
+          href: geometrija2023.html
+
+output:
+  html_document:
+    css: css/custom-fonts.css
+    includes:
+         after_body: footer.html
+         in_header: lightbox_header.html
+    theme: cosmo
+    highlight: textmate

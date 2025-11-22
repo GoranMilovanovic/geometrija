@@ -1,0 +1,55 @@
+/* custom-fonts.css */
+/* Import Lato from Google Fonts with Latin + Latin-ext subset for Serbian Latin characters */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700&display=swap&subset=latin,latin-ext');
+
+/* Apply the font across the site */
+body,
+html {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+/* Links and other text */
+a {
+  font-family: 'Lato', sans-serif;
+}
+
+/* Ensure fallback is consistent */
+*, *::before, *::after {
+  font-family: 'Lato', sans-serif;
+}
+
+/* --- GEOMETRIJA gallery styles --- */
+
+.gallery-prodaja {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.gallery-prodaja a {
+  display: inline-block;
+}
+
+.gallery-prodaja img {
+  max-width: 160px;      /* thumbnail width */
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.gallery-prodaja img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
